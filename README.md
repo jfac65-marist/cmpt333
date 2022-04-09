@@ -5,6 +5,7 @@
 [Module 4 - Lab Exercises](https://github.com/jfac65-marist/cmpt333/blob/master/docs/Lab%20Exercises%20-%204.pdf)
 
 [Module 5 - Lab Exercises](https://github.com/jfac65-marist/cmpt333/blob/master/docs/Lab%20Exercises%20-%205.pdf)
+
 [Module 6 - Lab Exercises](https://github.com/jfac65-marist/cmpt333/blob/master/docs/Lab%20Exercises%20-%206.pdf)
 
 [Module 7 - Lab Exercises](https://github.com/jfac65-marist/cmpt333/blob/master/docs/Lab%20Exercises%20-%207.pdf) 

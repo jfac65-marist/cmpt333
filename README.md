@@ -1,4 +1,4 @@
-[Lab Exercises - Pure Prolog Programming](https://github.com/jfac65-marist/cmpt333/blob/master/docs/Lab%20Exercises%20-%20Pure%20Prolog%20Programming.pdf)
+[Lab Exercises - Pure Prolog Programming](https://github.com/jfac65-marist/cmpt333/blob/master/docs/Lab%20Exercises%20-%20Prolog%20Programming.pdf)
 
 [Module 3 - Lab Exercises](https://github.com/jfac65-marist/cmpt333/blob/master/docs/Lab%20Exercises%20-%202.pdf)
 

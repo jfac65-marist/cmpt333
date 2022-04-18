@@ -7,3 +7,4 @@
 [- Solutions](https://github.com/jfac65-marist/cmpt333/tree/main/src/Structure%20Inspection)
 
 [Lab Exercises - Meta-Logical Predicates](https://github.com/jfac65-marist/cmpt333/blob/master/docs/Lab%20Exercises%20-%20Meta-Logical%20Predicates.pdf)
+[- Solutions](https://github.com/jfac65-marist/cmpt333/tree/main/src/Meta-Logical%20Predicates)
